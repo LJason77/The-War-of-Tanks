@@ -139,7 +139,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edc1af0325149424099eefa358644296, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  explosionForce: 300
+  explosionRadius: 3
   explosionEffect: {fileID: 195792, guid: 89e78efe92dfe5a42837b392cdb0bf9e, type: 3}
+  explosionTimeUp: 1.5
 --- !u!4 &1287080606574640190 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 9ed1e8a25f964bd4298944675e425a0d,
